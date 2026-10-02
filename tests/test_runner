@@ -1,0 +1,3 @@
+#!/bin/sh
+# This is a simple test runner script to execute unit and integration tests
+make && make test
